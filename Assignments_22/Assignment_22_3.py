@@ -14,7 +14,6 @@ def chkPrime(val):
     if(val == 2):
         isPrime=True
     for i in range(2,(int(val/2)+1)):
-    #for i in range(2,val):
         if(val%i == 0):
             isPrime=False
             print(f"{val} is divisible by {i} so not a prime number")

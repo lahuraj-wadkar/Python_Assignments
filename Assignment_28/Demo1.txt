@@ -1,0 +1,18 @@
+Python is a high‑level, interpreted programming language created by Guido van Rossum.
+
+It emphasizes readability with a clean, simple syntax.
+
+Python supports multiple paradigms: procedural, object‑oriented, and functional.
+
+It has a huge standard library and rich ecosystem of third‑party packages.
+
+Python is widely used in web development, data science, AI, automation, and scripting.
+
+Popular frameworks include Django, Flask, FastAPI, and TensorFlow.
+
+Python code runs on all major platforms: Windows, macOS, Linux.
+
+It uses dynamic typing and automatic memory management.
+
+Python’s package manager, pip, makes installing libraries easy.
+
